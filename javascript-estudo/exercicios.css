@@ -1,0 +1,93 @@
+body{
+    background-color: rgb(72, 72, 173);
+    color: whitesmoke;
+}
+
+.container{
+    border: solid 3px aqua;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#item1{
+    border: palevioletred solid 2px;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#idade{
+    border: solid 2px yellow;
+    margin: 10px;
+    width: 18%;
+}
+
+#soma{
+    border: solid 2px yellow;
+    margin: 10px;
+    width: 18%;
+}
+
+#subtrair{
+    border: solid 2px yellow;
+    margin: 10px;
+    width: 18%;
+}
+
+#dividir{
+    border: solid 2px yellow;
+    margin: 10px;
+    width: 18%;
+}
+
+#multiplicar{
+    border: solid 2px yellow;
+    margin: 10px;
+    width: 18%;
+}
+
+
+#item2{
+    border: palevioletred solid 2px;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+#soma2{
+    border: solid 2px yellow;
+    margin: 10px;
+    width: 18%;
+}
+
+#dividir5{
+    border: solid 2px yellow;
+    margin: 10px;
+    width: 18%;
+}
+
+#nota{
+    border: solid 2px yellow;
+    margin: 10px;
+    width: 24%;
+}
+
+
+#item3{
+    border: aqua solid 2px;
+    height: 200px;
+    width: 100%;
+}
+#item4{
+    border: aqua solid 2px;
+    height: 200px;
+    width: 100%;
+}
+#item5{
+    border: aqua solid 2px;
+    height: 200px;
+    width: 100%;
+}
